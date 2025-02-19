@@ -1,6 +1,6 @@
 theme = catppuccin-mocha
 font-size = 16
-font-family = "JetBrainsMono Nerd Font Mono"
+font-family = "JetBrainsMono NFM Bold"
 adjust-cell-height = -12%
 adjust-cell-width = -1
 font-thicken
